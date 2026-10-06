@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper listed under preferred-citation."
+title: "Which Confidence Interval for Which Metric? Companion code and results"
+type: software
+version: 1.0.0
+license: MIT
+authors:
+  - family-names: Jaradat
+    given-names: Ameera
+  - family-names: Nasayreh
+    given-names: Ahmad
+  - family-names: Bashkami
+    given-names: Ayah
+  - family-names: Alshdaifat
+    given-names: Ahmad Ibrahim
+  - family-names: Gharaibeh
+    given-names: Hasan
+keywords:
+  - confidence intervals
+  - bootstrap
+  - coverage
+  - medical AI
+  - model evaluation
+preferred-citation:
+  type: conference-paper
+  title: "Which Confidence Interval for Which Metric? A Coverage Study for Medical AI Classification"
+  authors:
+    - family-names: Jaradat
+      given-names: Ameera
+    - family-names: Nasayreh
+      given-names: Ahmad
+    - family-names: Bashkami
+      given-names: Ayah
+    - family-names: Alshdaifat
+      given-names: Ahmad Ibrahim
+    - family-names: Gharaibeh
+      given-names: Hasan
+  conference:
+    name: "CAISAIS 2026"
+  year: 2026
